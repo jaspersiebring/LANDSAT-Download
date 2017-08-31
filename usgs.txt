@@ -1,1 +1,1 @@
-USGS_dl letmein213
+USERNAME PASSWORD
